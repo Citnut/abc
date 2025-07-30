@@ -238,7 +238,7 @@ modules:
           - SPAWNER_EGG
           - COMMAND
       perworld: # Managed by Spigot.
-        enabled: false
+        enabled: true
         monsters: 40
         animals: 20
         water_animals: 5
