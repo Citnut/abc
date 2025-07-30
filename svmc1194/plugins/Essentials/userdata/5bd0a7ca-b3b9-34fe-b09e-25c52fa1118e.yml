@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753864427579
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753856897507
+  login: 1753857748904
+money: '0'
+last-account-name: cheesewizard
+lastlocation:
+  world: d9a56ea5-4446-4c4c-b5ed-d2a04c2c563e
+  world-name: world
+  x: 2803.0
+  y: 63.0
+  z: 1737.0
+  yaw: -153.00001525878906
+  pitch: 2.5500011444091797
+logoutlocation:
+  world: d9a56ea5-4446-4c4c-b5ed-d2a04c2c563e
+  world-name: world
+  x: -10.074736864773527
+  y: 15.024424088213681
+  z: -756.5277295683145
+  yaw: -48.16595458984375
+  pitch: -14.699984550476074

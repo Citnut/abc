@@ -29,7 +29,7 @@ main:
 modules:
   # A server restart is required to apply changes.
   MobAiReducer:
-    enabled: true
+    enabled: false
     worlds: # Use '*' to enable for all worlds.
       - '*'
     values:
@@ -238,7 +238,7 @@ modules:
           - SPAWNER_EGG
           - COMMAND
       perworld: # Managed by Spigot.
-        enabled: true
+        enabled: false
         monsters: 40
         animals: 20
         water_animals: 5

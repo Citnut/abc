@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1753858470929
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753856897519
+  login: 1753864989563
+money: '0'
+last-account-name: muondjtcathegioi
+lastlocation:
+  world: d9a56ea5-4446-4c4c-b5ed-d2a04c2c563e
+  world-name: world
+  x: 221.46546556552696
+  y: 101.0
+  z: -41.288483779858325
+  yaw: 179.70010375976562
+  pitch: 2.3995838165283203
+logoutlocation:
+  world: d9a56ea5-4446-4c4c-b5ed-d2a04c2c563e
+  world-name: world
+  x: -4.880209313026175
+  y: 19.0
+  z: -755.0628346837894
+  yaw: 118.760986328125
+  pitch: 38.24952697753906
