@@ -22,7 +22,7 @@ advancements:
   disabled:
   - minecraft:story/disabled
 settings:
-  timeout-time: 60
+  timeout-time: 600
   restart-on-crash: true
   restart-script: ./start.sh
   save-user-cache-on-stop-only: false
@@ -169,6 +169,8 @@ world-settings:
       entity: 50
     zombie-aggressive-towards-villager: true
     enable-zombie-pigmen-portal-spawns: true
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 stats:
   disable-saving: false

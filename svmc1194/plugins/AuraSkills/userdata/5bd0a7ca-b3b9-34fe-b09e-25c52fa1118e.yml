@@ -2,10 +2,10 @@ uuid: 5bd0a7ca-b3b9-34fe-b09e-25c52fa1118e
 skills:
   auraskills/farming:
     level: 2
-    xp: 20.050000000000004
+    xp: 94.29999999999998
   auraskills/excavation:
-    level: 0
-    xp: 17.799999999999997
+    level: 1
+    xp: 94.80000000000041
   auraskills/enchanting:
     level: 0
     xp: 0.0
@@ -13,23 +13,23 @@ skills:
     level: 0
     xp: 0.0
   auraskills/mining:
-    level: 1
-    xp: 138.30000000000047
+    level: 2
+    xp: 76.42000000000047
   auraskills/agility:
     level: 5
-    xp: 83.55308000000119
+    xp: 1483.4731400000016
   auraskills/defense:
-    level: 2
-    xp: 412.86969844102833
+    level: 3
+    xp: 20.669698441028267
   auraskills/fishing:
     level: 2
     xp: 374.0
   auraskills/fighting:
     level: 1
-    xp: 44.0
+    xp: 51.0
   auraskills/foraging:
     level: 4
-    xp: 1351.519999999995
+    xp: 1359.439999999996
   auraskills/archery:
     level: 0
     xp: 0.0
@@ -42,14 +42,18 @@ trait_modifiers:
     trait: auraskills/mining_luck
     value: 5.0
   '1':
+    name: excavation_luck_ability
+    trait: auraskills/excavation_luck
+    value: 10.0
+  '2':
     name: foraging_luck_ability
     trait: auraskills/foraging_luck
     value: 10.0
-  '2':
+  '3':
     name: fishing_luck_ability
     trait: auraskills/fishing_luck
     value: 5.0
-  '3':
+  '4':
     name: farming_luck_ability
     trait: auraskills/farming_luck
     value: 10.0
